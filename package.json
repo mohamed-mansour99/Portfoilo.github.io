@@ -2,7 +2,7 @@
    "name": "my-project",
    "private": true,
    "version": "0.0.0",
-   "homepage": "https://simoegy.github.io/MyReactPortfolio/my-project",
+   "homepage": "https://github.com/simoegy/Portfoilo.github.io",
    "type": "module",
    "scripts": {
       "dev": "vite",
