@@ -5,6 +5,7 @@
    "homepage": "https://github.com/simoegy/Portfoilo.github.io",
    "type": "module",
    "scripts": {
+      "start": "node server.js",
       "dev": "vite",
       "build": "vite build",
       "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
