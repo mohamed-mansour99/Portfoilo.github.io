@@ -198,16 +198,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "seaa",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Seaa is a dynamic platform designed to bridge the gap between visionaries with innovative ideas and investors seeking promising opportunities. Our website enables seamless interactions, allowing idea creators and financial backers to connect, collaborate, and explore mutually beneficial ventures.",
       tags: [
         {
-          name: "react",
+          name: "Next",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "TypeScript",
           color: "green-text-gradient",
         },
         {
@@ -215,8 +215,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2",
+      source_code_link: "https://github.com/mohamed-mansour99",
     },
     {
       name: "Job IT",
