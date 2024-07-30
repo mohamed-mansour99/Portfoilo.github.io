@@ -23,14 +23,17 @@ return(
     }}
     className ="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full "
     >
-      <div className='relative w-full h-[230px]'>
+      <div className='relative w-full h-[230px] overflow-hidden'>
+      <a href="https://test.seaasaudi.com/" target="_blank" className='z-10 absolute'>
+
           <img
             src={image}
             alt='project_image'
             className='w-full h-full object-cover rounded-2xl'
           />
+      </a>
 
-          <div className='absolute inset-0 flex justify-end m-3 card-img_hover'>
+          <div className='absolute flex justify-end m-3 card-img_hover z-20 w-[20%] inset-x-[70%]'>
             <div
               onClick={() => window.open(source_code_link, "_blank")}
               className='black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer'
@@ -38,7 +41,7 @@ return(
               <img
                 src={github}
                 alt='source code'
-                className='w-1/2 h-1/2 object-contain'
+                className='w-1/2 h-1/2 object-contain '
               />
             </div>
           </div>
