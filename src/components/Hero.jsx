@@ -20,8 +20,7 @@ const Hero = () => {
           </h1>
           <p>
             I am web developer and this my sec project in 3D webSite
-            <br className="sm:block hidden" /> ,currently i learn js and React
-            by myself
+            <br className="sm:block hidden" /> ,currently i Work as Front-end with React and Next using js or Ts 
           </p>
         </div>
       </div>
