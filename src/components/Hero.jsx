@@ -19,8 +19,7 @@ const Hero = () => {
             <span className="text-[#915eff]">Mohmed Hassan </span>
           </h1>
           <p>
-            I am web developer and this my sec project in 3D webSite
-            <br className="sm:block hidden" /> ,currently i Work as Front-end with React and Next using js or Ts 
+          I am a Frontend Developer specializing in React.js and Next.js, with expertise in JavaScript and TypeScript. With over two years of experience, I build scalable web applications, focusing on performance, usability, and seamless user experiences. Passionate about problem-solving and continuous learning, I have worked on diverse projects, including SaaS platforms, e-commerce solutions, and CMS development
           </p>
         </div>
       </div>

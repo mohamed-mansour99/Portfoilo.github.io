@@ -46,9 +46,7 @@ const About = () => {
       <motion.p variants={fadeIn("","",0.1,0.1)}
       className="mt-5 text-secondey  text-[17px] max-w-3xl leading[30px]"
       >
-        Hi,I am Mohamed Hassam software Enginner ,have bacholer degree
-        in Computer Science and Engineering. I am currently studying React and
-        NodeJS(javaScript). I hope my project will be able to provide a better experience to others and to me!
+        Hi, I am Mohamed Hassan, a Software Engineer with a Bachelor's degree in Computer Science. I specialize in Frontend Development, focusing on React.js, Next.js, and TypeScript. Currently, I am expanding my expertise in Node.js to enhance my full-stack development skills. My goal is to build high-quality web and mobile applications that provide seamless user experiences and add value to both users and businesses.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
       {services.map((service, index) => (
