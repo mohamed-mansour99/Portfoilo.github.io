@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    nextjs,
+    freelancer,
+    azrak,
   } from "../assets";
   
   export const navLinks = [
@@ -42,30 +45,84 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Frontend Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React.js & Next.js Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "WordPress Developer & Cms E-commerce platform",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Content Creator in youtube",
       icon: creator,
     },
   ];
   
+  // const technologies = [
+  //   {
+  //     name: "HTML 5",
+  //     icon: html,
+  //   },
+  //   {
+  //     name: "CSS 3",
+  //     icon: css,
+  //   },
+  //   {
+  //     name: "JavaScript",
+  //     icon: javascript,
+  //   },
+  //   {
+  //     name: "TypeScript",
+  //     icon: typescript,
+  //   },
+  //   {
+  //     name: "React JS",
+  //     icon: reactjs,
+  //   },
+  //   {
+  //     name: "Redux Toolkit",
+  //     icon: redux,
+  //   },
+  //   {
+  //     name: "Tailwind CSS",
+  //     icon: tailwind,
+  //   },
+  //   {
+  //     name: "Node JS",
+  //     icon: nodejs,
+  //   },
+  //   {
+  //     name: "MongoDB",
+  //     icon: mongodb,
+  //   },
+  //   {
+  //     name: "Three JS",
+  //     icon: threejs,
+  //   },
+  //   {
+  //     name: "git",
+  //     icon: git,
+  //   },
+  //   {
+  //     name: "figma",
+  //     icon: figma,
+  //   },
+  //   {
+  //     name: "docker",
+  //     icon: docker,
+  //   },
+  // ];
   const technologies = [
     {
-      name: "HTML 5",
+      name: "HTML5",
       icon: html,
     },
     {
-      name: "CSS 3",
+      name: "CSS3",
       icon: css,
     },
     {
@@ -77,8 +134,12 @@ import {
       icon: typescript,
     },
     {
-      name: "React JS",
+      name: "React.js",
       icon: reactjs,
+    },
+    {
+      name: "Next.js",
+      icon: nextjs,
     },
     {
       name: "Redux Toolkit",
@@ -89,82 +150,95 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
+      name: "Git",
       icon: git,
     },
     {
-      name: "figma",
+      name: "Figma",
       icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
+  
+  // const experiences = [
+  //   {
+  //     title: "React.js Developer",
+  //     company_name: "Starbucks",
+  //     icon: starbucks,
+  //     iconBg: "#383E56",
+  //     date: "March 2020 - April 2021",
+  //     points: [
+  //       "Developing and maintaining web applications using React.js and other related technologies.",
+  //       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //       "Implementing responsive design and ensuring cross-browser compatibility.",
+  //       "Participating in code reviews and providing constructive feedback to other developers.",
+  //     ],
+  //   },
+  //   {
+  //     title: "React Native Developer",
+  //     company_name: "Tesla",
+  //     icon: tesla,
+  //     iconBg: "#E6DEDD",
+  //     date: "Jan 2021 - Feb 2022",
+  //     points: [
+  //       "Developing and maintaining web applications using React.js and other related technologies.",
+  //       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //       "Implementing responsive design and ensuring cross-browser compatibility.",
+  //       "Participating in code reviews and providing constructive feedback to other developers.",
+  //     ],
+  //   },
+  //   {
+  //     title: "Web Developer",
+  //     company_name: "Shopify",
+  //     icon: shopify,
+  //     iconBg: "#383E56",
+  //     date: "Jan 2022 - Jan 2023",
+  //     points: [
+  //       "Developing and maintaining web applications using React.js and other related technologies.",
+  //       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //       "Implementing responsive design and ensuring cross-browser compatibility.",
+  //       "Participating in code reviews and providing constructive feedback to other developers.",
+  //     ],
+  //   },
+  //   {
+  //     title: "Full stack Developer",
+  //     company_name: "Meta",
+  //     icon: meta,
+  //     iconBg: "#E6DEDD",
+  //     date: "Jan 2023 - Present",
+  //     points: [
+  //       "Developing and maintaining web applications using React.js and other related technologies.",
+  //       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //       "Implementing responsive design and ensuring cross-browser compatibility.",
+  //       "Participating in code reviews and providing constructive feedback to other developers.",
+  //     ],
+  //   },
+  // ];
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Front-End Developer",
+      company_name: "Azrak Company",
+      icon: azrak, // Make sure you have the correct icon
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing and maintaining scalable SaaS and standard web applications using React.js and Next.js.",
+        "Collaborating with cross-functional teams to deliver high-quality, user-friendly solutions.",
+        "Optimizing system performance and troubleshooting complex React and Next.js issues.",
+        "Working on CMS development, ensuring seamless integration and functionality.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Freelance Web Developer",
+      company_name: "Freelancer",
+      icon: freelancer, // Use an appropriate icon for freelance work
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Ongoing",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed and maintained WordPress websites for local businesses.",
+        "Customized WordPress themes and plugins, integrating payment gateways and improving site speed.",
+        "Enhanced SEO performance by optimizing meta tags, site structure, and content quality.",
+        "Built and managed projects using React.js and Next.js to create dynamic, high-performance web applications.",
       ],
     },
   ];
@@ -196,8 +270,74 @@ import {
     },
   ];
   
+  // const projects = [
+  //   {
+  //     name: "seaa",
+  //     description:
+  //       "Seaa is a dynamic platform designed to bridge the gap between visionaries with innovative ideas and investors seeking promising opportunities. Our website enables seamless interactions, allowing idea creators and financial backers to connect, collaborate, and explore mutually beneficial ventures.",
+  //     tags: [
+  //       {
+  //         name: "Next",
+  //         color: "blue-text-gradient",
+  //       },
+  //       {
+  //         name: "TypeScript",
+  //         color: "green-text-gradient",
+  //       },
+  //       {
+  //         name: "tailwind",
+  //         color: "pink-text-gradient",
+  //       },
+  //     ],
+  //     image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2",
+  //     source_code_link: "https://github.com/mohamed-mansour99",
+  //   },
+  //   {
+  //     name: "Job IT",
+  //     description:
+  //       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+  //     tags: [
+  //       {
+  //         name: "react",
+  //         color: "blue-text-gradient",
+  //       },
+  //       {
+  //         name: "restapi",
+  //         color: "green-text-gradient",
+  //       },
+  //       {
+  //         name: "scss",
+  //         color: "pink-text-gradient",
+  //       },
+  //     ],
+  //     image: jobit,
+  //     source_code_link: "https://github.com/",
+  //   },
+  //   {
+  //     name: "Trip Guide",
+  //     description:
+  //       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+  //     tags: [
+  //       {
+  //         name: "nextjs",
+  //         color: "blue-text-gradient",
+  //       },
+  //       {
+  //         name: "supabase",
+  //         color: "green-text-gradient",
+  //       },
+  //       {
+  //         name: "css",
+  //         color: "pink-text-gradient",
+  //       },
+  //     ],
+  //     image: tripguide,
+  //     source_code_link: "https://github.com/",
+  //   },
+  // ];
+  
   const projects = [
-    {
+        {
       name: "seaa",
       description:
         "Seaa is a dynamic platform designed to bridge the gap between visionaries with innovative ideas and investors seeking promising opportunities. Our website enables seamless interactions, allowing idea creators and financial backers to connect, collaborate, and explore mutually beneficial ventures.",
@@ -219,46 +359,109 @@ import {
       source_code_link: "https://github.com/mohamed-mansour99",
     },
     {
-      name: "Job IT",
+      name: "TOOLIIFY (All-in-One Plugins)",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A React.js application designed to create highly customized plugins for Salla e-commerce stores. Features include dynamic code generation, live preview functionality, and an interactive dashboard with analytics.",
       tags: [
         {
-          name: "react",
+          name: "React.js",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "JavaScript",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Tailwind CSS",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
+      source_code_link: "https://github.com/", // Replace with actual repo link if available
     },
     {
-      name: "Trip Guide",
+      name: "Sallamaat",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A Next.js web application that tracks abandoned carts and initiates targeted marketing campaigns through automated messaging to improve conversion rates.",
       tags: [
         {
-          name: "nextjs",
+          name: "Next.js",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "TypeScript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Redux",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
+      source_code_link: "https://github.com/", // Replace with actual repo link if available
+    },
+    {
+      name: "GULFTIX",
+      description:
+        "A secure ticket marketplace for entertainment, sports, and concerts, offering seamless buying and selling experiences with an intuitive user interface.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
+      source_code_link: "https://github.com/", // Replace with actual repo link if available
+    },
+    {
+      name: "Influencers Companies",
+      description:
+        "A multi-domain web platform hosting 15 different influencer marketing companies under one system, with dynamic theme switching based on the accessed domain.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Webpack",
+          color: "green-text-gradient",
+        },
+        {
+          name: "CSS3",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
+      source_code_link: "https://github.com/", // Replace with actual repo link if available
+    },
+    {
+      name: "Loop Sales Management System",
+      description:
+        "A Next.js and TypeScript-powered sales management system designed to track leads, forecast sales, and automate workflow tasks for enhanced business operations.",
+      tags: [
+        {
+          name: "Next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Redux Toolkit",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
+      source_code_link: "https://github.com/", // Replace with actual repo link if available
     },
   ];
   
