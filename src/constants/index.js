@@ -378,7 +378,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: "https://private-user-images.githubusercontent.com/74792475/457644539-f1564811-84e6-4f51-92b3-6f5afec96faf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA1OTM5MzAsIm5iZiI6MTc1MDU5MzYzMCwicGF0aCI6Ii83NDc5MjQ3NS80NTc2NDQ1MzktZjE1NjQ4MTEtODRlNi00ZjUxLTkyYjMtNmY1YWZlYzk2ZmFmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDEyMDAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1OWQ5MDY0MWM0MDk5MzBkNTNiNDBiNzk4ZTAyYzY3MWU1ZDk0MDUyYzFmMGZiZGI0YWI2ZGU1NTIzZjdjZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.f-1bRE8a8odIxdsrDWoNz6ZovJ4ea2M5r2womZfHEbs", // Replace with actual image URL
+      image: "https://github.com/user-attachments/assets/f1564811-84e6-4f51-92b3-6f5afec96faf", // Replace with actual image URL
       source_code_link: "https://github.com/",  
        livePrev:"https://sallamaat.com/"
     },
@@ -444,7 +444,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: "https://private-user-images.githubusercontent.com/74792475/457644971-4cd5ba35-4670-4a03-91b8-ece6c38ae6a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA1OTQzMzIsIm5iZiI6MTc1MDU5NDAzMiwicGF0aCI6Ii83NDc5MjQ3NS80NTc2NDQ5NzEtNGNkNWJhMzUtNDY3MC00YTAzLTkxYjgtZWNlNmMzOGFlNmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDEyMDcxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxOTZhNDZjNGMwN2M1NDcxNmI1ZjYzYTZmY2FkOWUwMTdiODY2NWE3N2FlMTVjMTVhNWM0MWI5ZmVlMTNjZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tGQmOxUQ1IAwTQr-69MvNS0YkwF-xlm9PXnOfDR1V5g", // Replace with actual image URL
+      image: "https://github.com/user-attachments/assets/4cd5ba35-4670-4a03-91b8-ece6c38ae6a3", // Replace with actual image URL
       source_code_link: "https://github.com/",  
        livePrev:"https://loop.azzrk.com/"
     },

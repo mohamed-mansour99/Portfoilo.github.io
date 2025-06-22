@@ -74,7 +74,7 @@ const ProjectCard = ({
       >
         <div className='relative w-full h-[230px] overflow-hidden rounded-xl flex-shrink-0'>
           <a 
-            href={live_demo_link || "#"} 
+            href={livePrev} 
             target="_blank" 
             rel="noopener noreferrer" 
             className='z-10 absolute w-full h-full'
