@@ -357,6 +357,7 @@ import {
       ],
       image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2",
       source_code_link: "https://github.com/mohamed-mansour99",
+       livePrev:"https://anhjj.com/"
     },
     {
       name: "TOOLIIFY (All-in-One Plugins)",
@@ -376,8 +377,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
-      source_code_link: "https://github.com/", // Replace with actual repo link if available
+      image: "https://firebasestorage.googleapis.com/v0/b/aoe-24.appspot.com/o/Tooliify%20(online-video-cutter.com).mp4?alt=media&amp;token=b061aad3-a197-49b2-aeec-39e67db5e363", // Replace with actual image URL
+      source_code_link: "https://github.com/",
+        livePrev:"https://anhjj.com/"
     },
     {
       name: "Sallamaat",
@@ -398,7 +400,8 @@ import {
         },
       ],
       image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
-      source_code_link: "https://github.com/", // Replace with actual repo link if available
+      source_code_link: "https://github.com/",  
+       livePrev:"https://anhjj.com/"
     },
     {
       name: "GULFTIX",
@@ -419,7 +422,8 @@ import {
         },
       ],
       image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
-      source_code_link: "https://github.com/", // Replace with actual repo link if available
+      source_code_link: "https://github.com/",  
+       livePrev:"https://anhjj.com/"
     },
     {
       name: "Influencers Companies",
@@ -439,8 +443,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
-      source_code_link: "https://github.com/", // Replace with actual repo link if available
+      image: "https://aoe2424.vercel.app/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Faoe-24.appspot.com%2Fo%2Fimages%252FGray%2520Beige%2520Aesthetic%2520Minimalist%2520Moodboard%2520Photo%2520Collage%2520(1).png%3Falt%3Dmedia%26token%3Db6547d5c-8359-4e61-b5fe-8a1e42f26cde&w=1080&q=75", // Replace with actual image URL
+      source_code_link: "https://github.com/",  
+       livePrev:"https://anhjj.com/"
     },
     {
       name: "Loop Sales Management System",
@@ -461,8 +466,40 @@ import {
         },
       ],
       image: "https://github.com/user-attachments/assets/f723e89b-480f-4e65-84fc-24452ee11fb2", // Replace with actual image URL
-      source_code_link: "https://github.com/", // Replace with actual repo link if available
+      source_code_link: "https://github.com/",  
+       livePrev:"https://anhjj.com/"
     },
+    {
+      name: "Anhaj",
+      description:
+        "Online platform for kids to learn programming with impressive design. Designed for both parents and children, it offers interactive courses, educational games, and quizzes. With a progress tracking system for parents and secure online payments, Anhaj is committed to creating a collaborative and engaging space for young minds in programming.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Sass",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Redux Toolkit",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Api",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Bootstrap",
+          color: "red-text-gradient",
+        }
+      ],
+      image: "https://firebasestorage.googleapis.com/v0/b/aoe-24.appspot.com/o/Anhaj.mp4?alt=media&token=ec2c004a-1cad-44a3-b8fe-62a2002be7e6",  
+      source_code_link: "https://github.com/",  
+      livePrev:"https://anhjj.com/"
+    },
+   
   ];
   
   export { services, technologies, experiences, testimonials, projects };

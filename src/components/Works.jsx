@@ -26,11 +26,12 @@ return(
       <div className='relative w-full h-[230px] overflow-hidden'>
       <a href="https://test.seaasaudi.com/" target="_blank" className='z-10 absolute'>
 
-          <img
+          {/* <img
             src={image}
             alt='project_image'
             className='w-full h-full object-cover rounded-2xl'
-          />
+          /> */}
+           <video src={image} autoplay="true" loop="" playsinline="" class="pointer-events-none mx-auto h-[12rem] w-full object-cover object-top"></video>
       </a>
 
           <div className='absolute flex justify-end m-3 card-img_hover z-20 w-[20%] inset-x-[70%]'>
